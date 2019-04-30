@@ -3,4 +3,10 @@ My PBL contribution list
 
 | Issue                    | Link.   | Pull Request |
 |--------------------------|---------|--------------|
-| ¾ÆÁ÷ ÀÌ½´¸¦ Á¦±âÇÏÁö ¾Ê¾Ò½À´Ï´Ù.     | [ÀÌ½´¹øÈ£](ÀÌ½´ ¸µÅ©) | Pull Request ¸µÅ© |
+| I didn't make any issues.     | [ÀÌ½´¹øÈ£](ÀÌ½´ ¸µÅ©) | Pull Request ¸µÅ© |
+
+Idea for project
+================
+
+ * more items
+ * more backgrounds
